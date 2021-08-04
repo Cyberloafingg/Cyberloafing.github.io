@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>saber的鱼塘</title>
+  
+  <subtitle>一个用来摸鱼的地方</subtitle>
+  <link href="https://saberrexcalibur.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://saberrexcalibur.github.io/"/>
+  <updated>2021-08-04T13:52:04.210Z</updated>
+  <id>https://saberrexcalibur.github.io/</id>
+  
+  <author>
+    <name>SaberrExcalibur</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>【Hexo+GithubPage搭建博客】搭建与部署（一）</title>
+    <link href="https://saberrexcalibur.github.io/2021/08/04/title1/"/>
+    <id>https://saberrexcalibur.github.io/2021/08/04/title1/</id>
+    <published>2021-08-04T10:53:54.000Z</published>
+    <updated>2021-08-04T13:52:04.210Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;【Hexo-GithubPage搭建博客】搭建与部署（一）&quot;&gt;&lt;a href=&quot;#【Hexo-GithubPage搭建博客】搭建与部署（一）&quot; class=&quot;headerlink&quot; title=&quot;【Hexo+GithubPage搭建博客】搭建与部署（一）&quot;&gt;&lt;/a&gt;【Hexo+GithubPage搭建博客】搭建与部署（一）&lt;/h1&gt;&lt;hr&gt;
+&lt;p&gt;&amp;emsp;&lt;font color=&quot;#999AAA&quot;&gt; 开通博客的第一篇文章，就打算写一下hexo+github的新手教程，权当熟悉一下Markdown语法。权当假期无聊，自娱自乐吧。&lt;br&gt;&lt;font color=&quot;#999AAA&quot;&gt;&lt;br&gt;&amp;emsp;环境: Hexo 4.3.0&lt;br&gt;&amp;emsp;&amp;emsp;&amp;ensp;    &amp;ensp; node 14.17.14&lt;br&gt;&amp;emsp;&amp;emsp;&amp;ensp;    &amp;ensp; git &amp;emsp; 2.32.0&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;hr&gt;</summary>
+    
+    
+    
+    <category term="搭建博客" scheme="https://saberrexcalibur.github.io/categories/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+    <category term="Hexo" scheme="https://saberrexcalibur.github.io/tags/Hexo/"/>
+    
+    <category term="Markdown" scheme="https://saberrexcalibur.github.io/tags/Markdown/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>测试1</title>
+    <link href="https://saberrexcalibur.github.io/2021/08/03/2021-08-03/"/>
+    <id>https://saberrexcalibur.github.io/2021/08/03/2021-08-03/</id>
+    <published>2021-08-03T03:33:04.127Z</published>
+    <updated>2021-08-04T02:59:49.913Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;测试文章&quot;&gt;&lt;a href=&quot;#测试文章&quot; class=&quot;headerlink&quot; title=&quot;测试文章&quot;&gt;&lt;/a&gt;测试文章&lt;/h1&gt;&lt;p&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
