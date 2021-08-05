@@ -242,6 +242,7 @@ mark {
 /* 这个是上下的主题色，渐变的 */
 .bg-color {
     background-image: linear-gradient(to right, #490049 0%, #304ffe 100%);
+    opacity: 0.8; 
 }
 
 .text-color {
