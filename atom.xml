@@ -6,7 +6,7 @@
   <link href="https://saberrexcalibur.github.io/atom.xml" rel="self"/>
   
   <link href="https://saberrexcalibur.github.io/"/>
-  <updated>2021-08-05T07:19:46.681Z</updated>
+  <updated>2021-08-05T17:37:56.213Z</updated>
   <id>https://saberrexcalibur.github.io/</id>
   
   <author>
@@ -17,11 +17,62 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>【钢琴谱】原神：宵宫角色PV——「鸣神岛夏天的象征」钢琴谱</title>
+    <link href="https://saberrexcalibur.github.io/2021/08/06/title2/"/>
+    <id>https://saberrexcalibur.github.io/2021/08/06/title2/</id>
+    <published>2021-08-05T23:46:16.000Z</published>
+    <updated>2021-08-05T17:37:56.213Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;【钢琴谱】原神：宵宫角色PV——「鸣神岛夏天的象征」钢琴谱&quot;&gt;&lt;a href=&quot;#【钢琴谱】原神：宵宫角色PV——「鸣神岛夏天的象征」钢琴谱&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="钢琴谱" scheme="https://saberrexcalibur.github.io/categories/%E9%92%A2%E7%90%B4%E8%B0%B1/"/>
+    
+    
+    <category term="钢琴谱" scheme="https://saberrexcalibur.github.io/tags/%E9%92%A2%E7%90%B4%E8%B0%B1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【读书笔记】《集异壁之大成》读书笔记与杂谈（一）</title>
+    <link href="https://saberrexcalibur.github.io/2021/08/04/2021-08-03/"/>
+    <id>https://saberrexcalibur.github.io/2021/08/04/2021-08-03/</id>
+    <published>2021-08-04T10:53:54.000Z</published>
+    <updated>2021-08-05T17:08:24.059Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;hr&gt;
+&lt;h1 id=&quot;缘起&quot;&gt;&lt;a href=&quot;#缘起&quot; class=&quot;headerlink&quot; title=&quot;缘起&quot;&gt;&lt;/a&gt;缘起&lt;/h1&gt;&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    <category term="读书" scheme="https://saberrexcalibur.github.io/categories/%E8%AF%BB%E4%B9%A6/"/>
+    
+    
+    <category term="集异璧之大成" scheme="https://saberrexcalibur.github.io/tags/%E9%9B%86%E5%BC%82%E7%92%A7%E4%B9%8B%E5%A4%A7%E6%88%90/"/>
+    
+  </entry>
+  
+  <entry>
     <title>【Hexo+GithubPage搭建博客】搭建与部署（一）</title>
     <link href="https://saberrexcalibur.github.io/2021/08/04/title1/"/>
     <id>https://saberrexcalibur.github.io/2021/08/04/title1/</id>
     <published>2021-08-04T10:53:54.000Z</published>
-    <updated>2021-08-05T07:19:46.681Z</updated>
+    <updated>2021-08-05T17:34:26.153Z</updated>
     
     
     <summary type="html">&lt;h1 id=&quot;【Hexo-GithubPage搭建博客】搭建与部署（一）&quot;&gt;&lt;a href=&quot;#【Hexo-GithubPage搭建博客】搭建与部署（一）&quot; class=&quot;headerlink&quot; title=&quot;【Hexo+GithubPage搭建博客】搭建与部署（一）&quot;&gt;&lt;/a&gt;【Hexo+GithubPage搭建博客】搭建与部署（一）&lt;/h1&gt;&lt;hr&gt;
@@ -35,28 +86,7 @@
     
     <category term="Hexo" scheme="https://saberrexcalibur.github.io/tags/Hexo/"/>
     
-    <category term="Markdown" scheme="https://saberrexcalibur.github.io/tags/Markdown/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>测试1</title>
-    <link href="https://saberrexcalibur.github.io/2021/08/03/2021-08-03/"/>
-    <id>https://saberrexcalibur.github.io/2021/08/03/2021-08-03/</id>
-    <published>2021-08-03T03:33:04.127Z</published>
-    <updated>2021-08-04T02:59:49.913Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;测试文章&quot;&gt;&lt;a href=&quot;#测试文章&quot; class=&quot;headerlink&quot; title=&quot;测试文章&quot;&gt;&lt;/a&gt;测试文章&lt;/h1&gt;&lt;p&gt;</summary>
-        
-      
-    
-    
-    
+    <category term="git" scheme="https://saberrexcalibur.github.io/tags/git/"/>
     
   </entry>
   
