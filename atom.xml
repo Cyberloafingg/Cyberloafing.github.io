@@ -6,7 +6,7 @@
   <link href="https://saberrexcalibur.github.io/atom.xml" rel="self"/>
   
   <link href="https://saberrexcalibur.github.io/"/>
-  <updated>2021-08-05T17:37:56.213Z</updated>
+  <updated>2021-08-06T05:30:14.105Z</updated>
   <id>https://saberrexcalibur.github.io/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>【摸鱼】bupt自动打卡--利用github action自动部署的自动打卡程序</title>
+    <link href="https://saberrexcalibur.github.io/2021/08/06/title3/"/>
+    <id>https://saberrexcalibur.github.io/2021/08/06/title3/</id>
+    <published>2021-08-06T13:27:12.000Z</published>
+    <updated>2021-08-06T05:30:14.105Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;【摸鱼】bupt自动打卡–利用github-action自动部署的自动打卡程序&quot;&gt;&lt;a href=&quot;#【摸鱼】bupt自动打卡–利用github-action自动部署的自动打卡程序&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="摸鱼" scheme="https://saberrexcalibur.github.io/categories/%E6%91%B8%E9%B1%BC/"/>
+    
+    
+    <category term="git" scheme="https://saberrexcalibur.github.io/tags/git/"/>
+    
+    <category term="自动部署" scheme="https://saberrexcalibur.github.io/tags/%E8%87%AA%E5%8A%A8%E9%83%A8%E7%BD%B2/"/>
+    
+  </entry>
   
   <entry>
     <title>【钢琴谱】原神：宵宫角色PV——「鸣神岛夏天的象征」钢琴谱</title>
