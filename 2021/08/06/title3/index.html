@@ -706,7 +706,7 @@
                 
                 <div class="info-break-policy">
                     <i class="far fa-file-word fa-fw"></i>文章字数:&nbsp;&nbsp;
-                    458
+                    456
                 </div>
                 
 
@@ -731,11 +731,11 @@
 <p>确认后应该长这样<br><img src="https://img-blog.csdnimg.cn/311d3a11afef484c852eb0bd32c6699b.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2hiYXJqaHo=,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"></p>
 <h3 id="2-3运行与部署"><a href="#2-3运行与部署" class="headerlink" title="2.3运行与部署"></a>2.3运行与部署</h3><p>之后这个程序将会自动部署，几分钟内会给你的注册邮箱发送一封邮件告诉你是否成功。如果你不放心，可以在<code>Action</code>中查看运行状态，一旦你改动了其中的配置请在这里点击<code>Re-run job</code><br><img src="https://img-blog.csdnimg.cn/47fda5a96e5643fabb3ca7b1129252d1.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2hiYXJqaHo=,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"><br>当然你还可以在<code>checker</code>的<code>Run Script</code>中查看填报信息<br><img src="https://img-blog.csdnimg.cn/4721b3657001403ebe6bd5b4d11b906b.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2hiYXJqaHo=,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"></p>
 <h3 id="2-4其它配置"><a href="#2-4其它配置" class="headerlink" title="2.4其它配置"></a>2.4其它配置</h3><p>你可以在<code>.github/workflows/main.yml</code>文件中设置运行时间</p>
-<pre><code>name: Automatically submit the 2019-nCoV report sheet of BUPT
+<pre class=" language-bash"><code class="language-bash">name: Automatically submit the 2019-nCoV report sheet of BUPT
 
 on:
   schedule:
-    - cron: &quot;0 0 * * *&quot;
+    - cron: <span class="token string">"0 0 * * *"</span>
   push:
 </code></pre>
 <p>格式是标准的 cron 格式，第一个数字代表分钟，第二个数字代表小时。<br>如需更改可以<a target="_blank" rel="noopener" href="https://blog.csdn.net/lhch102/article/details/79354069?depth_1-">点击连接</a>学习core格式的规范</p>
