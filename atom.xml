@@ -94,6 +94,29 @@
   </entry>
   
   <entry>
+    <title>【Hexo+GithubPage搭建博客】搭建与部署（一）</title>
+    <link href="https://saberrexcalibur.github.io/2021/08/04/title1/"/>
+    <id>https://saberrexcalibur.github.io/2021/08/04/title1/</id>
+    <published>2021-08-04T10:53:54.000Z</published>
+    <updated>2021-08-05T17:34:26.153Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;【Hexo-GithubPage搭建博客】搭建与部署（一）&quot;&gt;&lt;a href=&quot;#【Hexo-GithubPage搭建博客】搭建与部署（一）&quot; class=&quot;headerlink&quot; title=&quot;【Hexo+GithubPage搭建博客】搭建与部署（一）&quot;&gt;&lt;/a&gt;【Hexo+GithubPage搭建博客】搭建与部署（一）&lt;/h1&gt;&lt;hr&gt;
+&lt;p&gt;&amp;emsp;&lt;font color=&quot;#999AAA&quot;&gt; 开通博客的第一篇文章，就打算写一下hexo+github的新手教程，权当熟悉一下Markdown语法。权当假期无聊，自娱自乐吧。&lt;br&gt;&lt;font color=&quot;#999AAA&quot;&gt;&lt;br&gt;&amp;emsp;环境: Hexo 4.3.0&lt;br&gt;&amp;emsp;&amp;emsp;&amp;ensp;    &amp;ensp; node 14.17.14&lt;br&gt;&amp;emsp;&amp;emsp;&amp;ensp;    &amp;ensp; git &amp;emsp; 2.32.0&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;hr&gt;</summary>
+    
+    
+    
+    <category term="搭建博客" scheme="https://saberrexcalibur.github.io/categories/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+    <category term="Hexo" scheme="https://saberrexcalibur.github.io/tags/Hexo/"/>
+    
+    <category term="git" scheme="https://saberrexcalibur.github.io/tags/git/"/>
+    
+  </entry>
+  
+  <entry>
     <title>【读书笔记】《集异壁之大成》读书笔记与杂谈（一）</title>
     <link href="https://saberrexcalibur.github.io/2021/08/04/2021-08-03/"/>
     <id>https://saberrexcalibur.github.io/2021/08/04/2021-08-03/</id>
@@ -116,29 +139,6 @@
     
     
     <category term="集异璧之大成" scheme="https://saberrexcalibur.github.io/tags/%E9%9B%86%E5%BC%82%E7%92%A7%E4%B9%8B%E5%A4%A7%E6%88%90/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>【Hexo+GithubPage搭建博客】搭建与部署（一）</title>
-    <link href="https://saberrexcalibur.github.io/2021/08/04/title1/"/>
-    <id>https://saberrexcalibur.github.io/2021/08/04/title1/</id>
-    <published>2021-08-04T10:53:54.000Z</published>
-    <updated>2021-08-05T17:34:26.153Z</updated>
-    
-    
-    <summary type="html">&lt;h1 id=&quot;【Hexo-GithubPage搭建博客】搭建与部署（一）&quot;&gt;&lt;a href=&quot;#【Hexo-GithubPage搭建博客】搭建与部署（一）&quot; class=&quot;headerlink&quot; title=&quot;【Hexo+GithubPage搭建博客】搭建与部署（一）&quot;&gt;&lt;/a&gt;【Hexo+GithubPage搭建博客】搭建与部署（一）&lt;/h1&gt;&lt;hr&gt;
-&lt;p&gt;&amp;emsp;&lt;font color=&quot;#999AAA&quot;&gt; 开通博客的第一篇文章，就打算写一下hexo+github的新手教程，权当熟悉一下Markdown语法。权当假期无聊，自娱自乐吧。&lt;br&gt;&lt;font color=&quot;#999AAA&quot;&gt;&lt;br&gt;&amp;emsp;环境: Hexo 4.3.0&lt;br&gt;&amp;emsp;&amp;emsp;&amp;ensp;    &amp;ensp; node 14.17.14&lt;br&gt;&amp;emsp;&amp;emsp;&amp;ensp;    &amp;ensp; git &amp;emsp; 2.32.0&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
-&lt;hr&gt;</summary>
-    
-    
-    
-    <category term="搭建博客" scheme="https://saberrexcalibur.github.io/categories/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
-    
-    
-    <category term="Hexo" scheme="https://saberrexcalibur.github.io/tags/Hexo/"/>
-    
-    <category term="git" scheme="https://saberrexcalibur.github.io/tags/git/"/>
     
   </entry>
   
