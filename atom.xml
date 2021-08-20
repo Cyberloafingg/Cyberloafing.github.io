@@ -6,7 +6,7 @@
   <link href="https://saberrexcalibur.github.io/atom.xml" rel="self"/>
   
   <link href="https://saberrexcalibur.github.io/"/>
-  <updated>2021-08-06T05:34:00.396Z</updated>
+  <updated>2021-08-20T18:19:30.852Z</updated>
   <id>https://saberrexcalibur.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>【读书笔记】《活着》余华</title>
+    <link href="https://saberrexcalibur.github.io/2021/08/16/title/"/>
+    <id>https://saberrexcalibur.github.io/2021/08/16/title/</id>
+    <published>2021-08-16T02:07:26.000Z</published>
+    <updated>2021-08-20T18:19:30.852Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;【读书笔记】《活着》余华&quot;&gt;&lt;a href=&quot;#【读书笔记】《活着》余华&quot; class=&quot;headerlink&quot; title=&quot;【读书笔记】《活着》余华&quot;&gt;&lt;/a&gt;【读书笔记】《活着》余华&lt;/h1&gt;&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    <category term="读书" scheme="https://saberrexcalibur.github.io/categories/%E8%AF%BB%E4%B9%A6/"/>
+    
+    
+    <category term="活着" scheme="https://saberrexcalibur.github.io/tags/%E6%B4%BB%E7%9D%80/"/>
+    
+  </entry>
   
   <entry>
     <title>【摸鱼】bupt自动打卡--利用github action自动部署的自动打卡程序</title>
