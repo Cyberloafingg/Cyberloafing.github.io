@@ -6,7 +6,7 @@
   <link href="https://saberrexcalibur.github.io/atom.xml" rel="self"/>
   
   <link href="https://saberrexcalibur.github.io/"/>
-  <updated>2021-08-20T18:19:30.852Z</updated>
+  <updated>2021-08-21T17:21:24.298Z</updated>
   <id>https://saberrexcalibur.github.io/</id>
   
   <author>
@@ -17,11 +17,36 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>【读书笔记】《丝绸之路》第一章------丝绸之路的诞生</title>
+    <link href="https://saberrexcalibur.github.io/2021/08/22/20210822/"/>
+    <id>https://saberrexcalibur.github.io/2021/08/22/20210822/</id>
+    <published>2021-08-22T00:58:36.000Z</published>
+    <updated>2021-08-21T17:21:24.298Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;【读书笔记】《丝绸之路》第一章——丝绸之路的诞生&quot;&gt;&lt;a href=&quot;#【读书笔记】《丝绸之路》第一章——丝绸之路的诞生&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="读书" scheme="https://saberrexcalibur.github.io/categories/%E8%AF%BB%E4%B9%A6/"/>
+    
+    
+    <category term="丝绸之路" scheme="https://saberrexcalibur.github.io/tags/%E4%B8%9D%E7%BB%B8%E4%B9%8B%E8%B7%AF/"/>
+    
+  </entry>
+  
+  <entry>
     <title>【读书笔记】《活着》余华</title>
     <link href="https://saberrexcalibur.github.io/2021/08/16/title/"/>
     <id>https://saberrexcalibur.github.io/2021/08/16/title/</id>
     <published>2021-08-16T02:07:26.000Z</published>
-    <updated>2021-08-20T18:19:30.852Z</updated>
+    <updated>2021-08-21T17:20:10.597Z</updated>
     
     
       
@@ -46,7 +71,7 @@
     <link href="https://saberrexcalibur.github.io/2021/08/06/title3/"/>
     <id>https://saberrexcalibur.github.io/2021/08/06/title3/</id>
     <published>2021-08-06T13:27:12.000Z</published>
-    <updated>2021-08-06T05:34:00.396Z</updated>
+    <updated>2021-08-21T17:19:21.315Z</updated>
     
     
       
@@ -73,7 +98,7 @@
     <link href="https://saberrexcalibur.github.io/2021/08/06/title2/"/>
     <id>https://saberrexcalibur.github.io/2021/08/06/title2/</id>
     <published>2021-08-05T23:46:16.000Z</published>
-    <updated>2021-08-05T17:37:56.213Z</updated>
+    <updated>2021-08-21T17:20:13.103Z</updated>
     
     
       
@@ -94,34 +119,11 @@
   </entry>
   
   <entry>
-    <title>【Hexo+GithubPage搭建博客】搭建与部署（一）</title>
-    <link href="https://saberrexcalibur.github.io/2021/08/04/title1/"/>
-    <id>https://saberrexcalibur.github.io/2021/08/04/title1/</id>
-    <published>2021-08-04T10:53:54.000Z</published>
-    <updated>2021-08-05T17:34:26.153Z</updated>
-    
-    
-    <summary type="html">&lt;h1 id=&quot;【Hexo-GithubPage搭建博客】搭建与部署（一）&quot;&gt;&lt;a href=&quot;#【Hexo-GithubPage搭建博客】搭建与部署（一）&quot; class=&quot;headerlink&quot; title=&quot;【Hexo+GithubPage搭建博客】搭建与部署（一）&quot;&gt;&lt;/a&gt;【Hexo+GithubPage搭建博客】搭建与部署（一）&lt;/h1&gt;&lt;hr&gt;
-&lt;p&gt;&amp;emsp;&lt;font color=&quot;#999AAA&quot;&gt; 开通博客的第一篇文章，就打算写一下hexo+github的新手教程，权当熟悉一下Markdown语法。权当假期无聊，自娱自乐吧。&lt;br&gt;&lt;font color=&quot;#999AAA&quot;&gt;&lt;br&gt;&amp;emsp;环境: Hexo 4.3.0&lt;br&gt;&amp;emsp;&amp;emsp;&amp;ensp;    &amp;ensp; node 14.17.14&lt;br&gt;&amp;emsp;&amp;emsp;&amp;ensp;    &amp;ensp; git &amp;emsp; 2.32.0&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
-&lt;hr&gt;</summary>
-    
-    
-    
-    <category term="搭建博客" scheme="https://saberrexcalibur.github.io/categories/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
-    
-    
-    <category term="Hexo" scheme="https://saberrexcalibur.github.io/tags/Hexo/"/>
-    
-    <category term="git" scheme="https://saberrexcalibur.github.io/tags/git/"/>
-    
-  </entry>
-  
-  <entry>
     <title>【读书笔记】《集异壁之大成》读书笔记与杂谈（一）</title>
     <link href="https://saberrexcalibur.github.io/2021/08/04/2021-08-03/"/>
     <id>https://saberrexcalibur.github.io/2021/08/04/2021-08-03/</id>
     <published>2021-08-04T10:53:54.000Z</published>
-    <updated>2021-08-05T17:08:24.059Z</updated>
+    <updated>2021-08-21T17:20:15.646Z</updated>
     
     
       
@@ -139,6 +141,29 @@
     
     
     <category term="集异璧之大成" scheme="https://saberrexcalibur.github.io/tags/%E9%9B%86%E5%BC%82%E7%92%A7%E4%B9%8B%E5%A4%A7%E6%88%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【Hexo+GithubPage搭建博客】搭建与部署（一）</title>
+    <link href="https://saberrexcalibur.github.io/2021/08/04/title1/"/>
+    <id>https://saberrexcalibur.github.io/2021/08/04/title1/</id>
+    <published>2021-08-04T10:53:54.000Z</published>
+    <updated>2021-08-21T17:20:11.454Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;【Hexo-GithubPage搭建博客】搭建与部署（一）&quot;&gt;&lt;a href=&quot;#【Hexo-GithubPage搭建博客】搭建与部署（一）&quot; class=&quot;headerlink&quot; title=&quot;【Hexo+GithubPage搭建博客】搭建与部署（一）&quot;&gt;&lt;/a&gt;【Hexo+GithubPage搭建博客】搭建与部署（一）&lt;/h1&gt;&lt;hr&gt;
+&lt;p&gt;&amp;emsp;&lt;font color=&quot;#999AAA&quot;&gt; 开通博客的第一篇文章，就打算写一下hexo+github的新手教程，权当熟悉一下Markdown语法。权当假期无聊，自娱自乐吧。&lt;br&gt;&lt;font color=&quot;#999AAA&quot;&gt;&lt;br&gt;&amp;emsp;环境: Hexo 4.3.0&lt;br&gt;&amp;emsp;&amp;emsp;&amp;ensp;    &amp;ensp; node 14.17.14&lt;br&gt;&amp;emsp;&amp;emsp;&amp;ensp;    &amp;ensp; git &amp;emsp; 2.32.0&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;hr&gt;</summary>
+    
+    
+    
+    <category term="搭建博客" scheme="https://saberrexcalibur.github.io/categories/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+    <category term="Hexo" scheme="https://saberrexcalibur.github.io/tags/Hexo/"/>
+    
+    <category term="git" scheme="https://saberrexcalibur.github.io/tags/git/"/>
     
   </entry>
   
