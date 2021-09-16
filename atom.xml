@@ -6,7 +6,7 @@
   <link href="https://saberrexcalibur.github.io/atom.xml" rel="self"/>
   
   <link href="https://saberrexcalibur.github.io/"/>
-  <updated>2021-08-24T18:28:42.763Z</updated>
+  <updated>2021-09-16T09:17:34.508Z</updated>
   <id>https://saberrexcalibur.github.io/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>【射影几何·（伪）】学习笔记---pycharm配置anaconda环境与numpy的基本使用</title>
+    <link href="https://saberrexcalibur.github.io/2021/09/17/20200916/"/>
+    <id>https://saberrexcalibur.github.io/2021/09/17/20200916/</id>
+    <published>2021-09-16T17:14:29.000Z</published>
+    <updated>2021-09-16T09:17:34.508Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;【射影几何·（伪）】学习笔记—pycharm配置anaconda环境与numpy的基本使用&quot;&gt;&lt;a href=&quot;#【射影几何·（伪）】学习笔记—pycharm配置anaconda环境与numpy的基本使用&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="study" scheme="https://saberrexcalibur.github.io/categories/study/"/>
+    
+    
+    <category term="numpy" scheme="https://saberrexcalibur.github.io/tags/numpy/"/>
+    
+    <category term="计算机图形学" scheme="https://saberrexcalibur.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/"/>
+    
+  </entry>
   
   <entry>
     <title>【读书笔记】《丝绸之路》（二）---宗教的传播与影响</title>
@@ -46,7 +73,7 @@
     <link href="https://saberrexcalibur.github.io/2021/08/22/20210822/"/>
     <id>https://saberrexcalibur.github.io/2021/08/22/20210822/</id>
     <published>2021-08-22T00:58:36.000Z</published>
-    <updated>2021-08-24T18:21:49.891Z</updated>
+    <updated>2021-08-29T23:49:31.720Z</updated>
     
     
       
