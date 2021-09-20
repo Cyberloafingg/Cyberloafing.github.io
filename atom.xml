@@ -6,7 +6,7 @@
   <link href="https://saberrexcalibur.github.io/atom.xml" rel="self"/>
   
   <link href="https://saberrexcalibur.github.io/"/>
-  <updated>2021-09-16T09:40:13.246Z</updated>
+  <updated>2021-09-20T13:49:33.025Z</updated>
   <id>https://saberrexcalibur.github.io/</id>
   
   <author>
@@ -17,11 +17,38 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>20210920</title>
+    <link href="https://saberrexcalibur.github.io/2021/09/21/20210920/"/>
+    <id>https://saberrexcalibur.github.io/2021/09/21/20210920/</id>
+    <published>2021-09-20T21:46:36.000Z</published>
+    <updated>2021-09-20T13:49:33.025Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;【射影几何·（伪）】学习笔记—numpy的基本使用方法&quot;&gt;&lt;a href=&quot;#【射影几何·（伪）】学习笔记—numpy的基本使用方法&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="study" scheme="https://saberrexcalibur.github.io/categories/study/"/>
+    
+    
+    <category term="numpy" scheme="https://saberrexcalibur.github.io/tags/numpy/"/>
+    
+    <category term="计算机图形学" scheme="https://saberrexcalibur.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/"/>
+    
+  </entry>
+  
+  <entry>
     <title>【射影几何·（伪）】学习笔记---pycharm配置anaconda环境与numpy的基本使用</title>
-    <link href="https://saberrexcalibur.github.io/2021/09/17/20200916/"/>
-    <id>https://saberrexcalibur.github.io/2021/09/17/20200916/</id>
+    <link href="https://saberrexcalibur.github.io/2021/09/17/20210916/"/>
+    <id>https://saberrexcalibur.github.io/2021/09/17/20210916/</id>
     <published>2021-09-16T17:14:29.000Z</published>
-    <updated>2021-09-16T09:40:13.246Z</updated>
+    <updated>2021-09-20T13:49:41.272Z</updated>
     
     
       
